@@ -1,6 +1,6 @@
-# Explainable-AI-via-Exhaustive-Decision-Tree-Querying-on-Mental-Health-Tech-Survey-Data
+# Explainable AI via Exhaustive Decision Tree Querying on Mental Health Tech Survey Data
 
-This repository houses the the recreation of a Research Paper titled 'Explainable AI for Classification using Probabilistic Logic Inference' published by Fan et al. at the DeepAI Publication Conference, 2020.
+This repository houses the programming recreation of a Research Paper titled 'Explainable AI for Classification using Probabilistic Logic Inference' published by Fan et al. at the DeepAI Publication Conference, 2020.
 
 1) Part 1 houses the Critical Reviews of the Assigned Papers, titled Review 1 (for Paper 1) and Review 2 (for Paper 2).
 
